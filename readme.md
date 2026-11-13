@@ -9,3 +9,7 @@ Shorewood High school 2018 - 2022
 
 Western Washington university 2022 - 2027
 [Website](https://www.wwu.edu/)
+
+## Research Interests ##
+
+Toxicology
